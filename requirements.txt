@@ -1,3 +1,4 @@
 discord.py
+# openai  <-- Comentado para que no se instale
+groq
 python-dotenv
-openai
